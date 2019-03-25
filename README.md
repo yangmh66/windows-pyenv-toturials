@@ -12,7 +12,7 @@
 
 - [ConEmu](https://conemu.github.io/)
 
-    Using ```choch``` to install it.
+    Using ```choco``` to install it.
 
     ```cmd
     > choco install conemu
@@ -52,7 +52,7 @@ Opening ```ConEmu``` and choose ```git bash```, then you can use ```Unix-command
     ```bash
     $ conda install python=3.6
     ```
-    or Create a new enviroment (Recommend)
+    or create a new environment (Recommend)
 
     ```bash
     $ conda create --name py36 python=3.6
@@ -70,9 +70,9 @@ Opening ```ConEmu``` and choose ```git bash```, then you can use ```Unix-command
 
 
 ## Note: 
-
-Because of git bash use ```MinTTY``` that it doesn't support interactive operation. If you want to use python interactive shell, you can follow the method as follow:
     
+Because git bash use ```MinTTY``` that doesn't support interactive operation, If you want to use python interactive shell, you can follow the method as follows
+
 ```bash
 $ python -i 
 ```
